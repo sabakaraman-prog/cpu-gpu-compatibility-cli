@@ -31,6 +31,7 @@ The tool focuses on robust input parsing, modular design, and practical hardware
 What do you want to do?
 1) I have a CPU → recommend GPU
 2) I have a GPU → recommend CPU
+
 Enter choice (1 or 2): 2
 
 Which GPU do you have?
