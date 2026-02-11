@@ -39,6 +39,7 @@ RTX 4070 Ti
 GPU entered: rtx 4070 ti
 
 --- CPU recommendations ---
+
 Recommended CPUs: i7 or Ryzen 7
 
 ---
